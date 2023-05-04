@@ -1,7 +1,7 @@
 {
   "main.css": "/Vitessce_embedded/static/css/main.4ccfc03f.chunk.css",
-  "main.js": "/Vitessce_embedded/static/js/main.07e71083.chunk.js",
-  "main.js.map": "/Vitessce_embedded/static/js/main.07e71083.chunk.js.map",
+  "main.js": "/Vitessce_embedded/static/js/main.3fc49fd7.chunk.js",
+  "main.js.map": "/Vitessce_embedded/static/js/main.3fc49fd7.chunk.js.map",
   "static/js/1.561126de.chunk.js": "/Vitessce_embedded/static/js/1.561126de.chunk.js",
   "static/js/1.561126de.chunk.js.map": "/Vitessce_embedded/static/js/1.561126de.chunk.js.map",
   "static/js/2.84178275.chunk.js": "/Vitessce_embedded/static/js/2.84178275.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/Vitessce_embedded/static/js/runtime~main.d5c207a8.js.map",
   "static/css/main.4ccfc03f.chunk.css.map": "/Vitessce_embedded/static/css/main.4ccfc03f.chunk.css.map",
   "index.html": "/Vitessce_embedded/index.html",
-  "precache-manifest.def50416e2710841564e4fa9375c9d8c.js": "/Vitessce_embedded/precache-manifest.def50416e2710841564e4fa9375c9d8c.js",
+  "precache-manifest.cd87107a3ecc484b8307a2a4fea61af3.js": "/Vitessce_embedded/precache-manifest.cd87107a3ecc484b8307a2a4fea61af3.js",
   "service-worker.js": "/Vitessce_embedded/service-worker.js"
 }

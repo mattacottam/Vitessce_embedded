@@ -1,5 +1,0 @@
-include: 
- - Shrestha_jci2021_300cells.zarr
- - .zattrs
- - .zgroup
- - .zmetadata
