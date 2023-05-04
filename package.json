@@ -2,7 +2,7 @@
   "name": "vitessce-demo-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mattacottam/Vitessce_embedded/",
+  "homepage": "https://mattacottam.github.io/Vitessce_embedded/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
