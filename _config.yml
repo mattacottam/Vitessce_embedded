@@ -3,3 +3,4 @@ include:
  - .zattrs
  - .zgroup
  - .zmetadata
+ - .zarray
