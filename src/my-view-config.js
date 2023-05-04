@@ -9,7 +9,7 @@ export const myViewConfig = {
             "files": [
                 {
                     "fileType": "anndata.zarr", 
-                    "url": "http://localhost:3000/A/0/96c555da-d181-45c8-baae-80addf401123", 
+                    "url": "https://github.com/mattacottam/Vitessce_embedded/tree/gh-pages/Shrestha_jci2021_300cells.zarr", 
                     "options": {
                         "obsEmbedding": [
                             {
