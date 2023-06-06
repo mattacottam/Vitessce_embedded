@@ -1,0 +1,11 @@
+{
+    "_index": "index",
+    "column-order": [
+        "orig.ident",
+        "seurat_clusters",
+        "Batch",
+        "CellTypes"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}

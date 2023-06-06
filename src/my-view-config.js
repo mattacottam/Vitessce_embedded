@@ -9,7 +9,7 @@ export const myViewConfig = {
             "files": [
                 {
                     "fileType": "anndata.zarr", 
-                    "url": "https://github.com/mattacottam/Vitessce_embedded/tree/gh-pages/Shrestha_jci2021_300cells.zarr", 
+                    "url": "https://cds-pancreatlas-public.s3.amazonaws.com/Shrestha_jci2021_new.zarr/", 
                     "options": {
                         "obsEmbedding": [
                             {
